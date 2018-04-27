@@ -11,19 +11,19 @@
 
 @title[PITCHME.md]
 
-#### Patrón RxMVP  <span class="gold">PITCHME.md</span> into
+#### Patrón RxMVP  <span class="gold"></span>
 #### Patrón DI
 #### y Patrón Observador
 <br>
-<span class="aside">Just like this one...</span>
+<span class="aside"></span>
 
 ---
 
-#### No more <span class="gray">Keynote</span>.
-#### No more <span class="gray">Powerpoint</span>.
+#### Librerias Utilazadas<span class="gray"></span>.
+#### <span class="gray"></span>.
 <br>
-#### Just <span class="gold">Markdown</span>.
-#### Then <span class="gold">Git-Commit</span>.
+####  <span class="gold"></span>.
+####  <span class="gold"></span>.
 
 ---?code=assets/md/hello.md&title=Step 1. PITCHME.md
 
