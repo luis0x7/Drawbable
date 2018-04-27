@@ -58,12 +58,12 @@
 
 ### Tipos de Obserbables <span class="gold">Slide Rich</span>
 
-#### 1.-
-#### 2.-
-#### 3.-
-#### 4.-
-#### 5.-
-#### 6.-
+#### 1.-Observable
+#### 2.-Flowable
+#### 3.-Single
+#### 4.-Maybe
+#### 5.-Completable
+#### 6.-Subject
 
 ---
 
