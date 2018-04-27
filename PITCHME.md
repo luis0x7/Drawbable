@@ -26,54 +26,40 @@
 ####  <span class="gold"></span>.
 
 <br>
-#### RxJava 
 
-<span class="aside"> Programación reactiva---</span>
 
 ---
 
 @title[Step 2. Git-Commit]
 
-### <span class="gold">STEP 2. GIT-COMMIT</span>
+#### RxJava 
+
+<span class="aside"> Programación reactiva</span>
 <br>
 
-```shell
-$ git add PITCHME.md
-$ git commit -m "New slideshow content."
-$ git push
 
-Done!
-```
 
-@[1](Add your PITCHME.md slideshow content file.)
-@[2](Commit PITCHME.md to your local repo.)
-@[3](Push PITCHME.md to your public repo and you're done!)
-@[5](Supports GitHub, GitLab, Bitbucket, GitBucket, Gitea, and Gogs.)
 
 ---
 
 @title[Step 3. Done!]
 
-### <span class="gold">STEP 3. GET THE WORD OUT!</span>
+### Observable  <span class="gold"></span>
 <br>
-![GitPitch Slideshow URLs](assets/images/gp-slideshow-urls.png)
-<br>
-<br>
-#### Instantly use your GitPitch slideshow URL to promote, pitch or present absolutely anything.
 
----
+<br>
+<br>
 
 @title[Slide Rich]
 
-### <span class="gold">Slide Rich</span>
+### Tipos de Obserbables <span class="gold">Slide Rich</span>
 
-#### Code Presenting for Blocks, Files, and GISTs
-#### Image, Video, Chart, and Math Slides
-#### Multiple Themes with Easy Customization
-<br>
-#### <span class="gold">Plus collaboration is built-in...</span>
-#### Your Slideshow is Part of Your Project
-#### Under Git Version Control within Your Git Repo
+#### 1.-
+#### 2.-
+#### 3.-
+#### 4.-
+#### 5.-
+#### 6.-
 
 ---
 
