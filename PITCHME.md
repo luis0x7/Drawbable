@@ -1,6 +1,6 @@
 @title[Introduction]
 
-# Presentacion<span class="gold"></span>
+# Presentacion  <span class="gold"></span>
 
 
 <br>
@@ -11,9 +11,9 @@
 
 @title[PITCHME.md]
 
-#### GitPitch turns <span class="gold">PITCHME.md</span> into
-#### interactive,
-#### online and offline slideshows.
+#### Patrón RxMVP  <span class="gold">PITCHME.md</span> into
+#### Patrón DI
+#### y Patrón Observador
 <br>
 <span class="aside">Just like this one...</span>
 
