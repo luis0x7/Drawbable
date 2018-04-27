@@ -50,6 +50,8 @@
 <br>
 <br>
 
+----
+
 @title[Slide Rich]
 
 ### Tipos de Obserbables <span class="gold">Slide Rich</span>
