@@ -54,6 +54,12 @@
 
 @title[Slide Rich]
 
+
+
+---
+
+@title[Feature Rich]
+
 ### Tipos de Obserbables <span class="gold">Slide Rich</span>
 
 #### 1.-
@@ -62,18 +68,6 @@
 #### 4.-
 #### 5.-
 #### 6.-
-
----
-
-@title[Feature Rich]
-
-### <span class="gold">Feature Rich</span>
-
-#### Present Online or Offline
-#### With Speaker Notes Support
-#### Print Presentation as PDF
-#### Auto-Generated Table-of-Contents
-#### Share Presentation on Twitter or LinkedIn
 
 ---
 
