@@ -25,12 +25,10 @@
 ####  <span class="gold"></span>.
 ####  <span class="gold"></span>.
 
----?code=assets/md/hello.md&title=Step 1. PITCHME.md
-
 <br>
-#### Create slideshow content using GitHub Flavored Markdown in your favorite editor.
+#### RxJava 
 
-<span class="aside">It's as easy as README.md with simple slide-delimeters (---)</span>
+<span class="aside"> Programación reactiva---</span>
 
 ---
 
