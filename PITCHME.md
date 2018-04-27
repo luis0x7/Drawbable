@@ -70,7 +70,7 @@
 ### <span class="gold">ejemplo</span>
 
 <br>
-  Observable<IDrawerItem> observarDrawer(){
+``` Observable<IDrawerItem> observarDrawer(){
         return Observable.create(consumer ->
                 d.withOnDrawerItemClickListener((view, position, drawerItem) -> {
                     consumer.onNext(drawerItem);
@@ -79,7 +79,7 @@
         );
     }
 
-
+```
 ---
 
 ### Go for it.
