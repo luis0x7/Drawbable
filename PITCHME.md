@@ -50,10 +50,6 @@
 <br>
 <br>
 
-----
-
-@title[Slide Rich]
-
 
 
 ---
@@ -71,23 +67,18 @@
 
 ---
 
-### <span class="gold">GitPitch Pro - Now Live!</span>
+### <span class="gold">ejemplo</span>
 
 <br>
-<div class="left">
-    <i class="fa fa-user-secret fa-5x" aria-hidden="true"> </i><br>
-    <a href="https://gitpitch.com/pro-features" class="pro-link">
-    More details here.</a>
-</div>
-<div class="right">
-    <ul>
-        <li>Private Repos</li>
-        <li>Private URLs</li>
-        <li>Password-Protection</li>
-        <li>Image Opacity</li>
-        <li>SVG Image Support</li>
-    </ul>
-</div>
+  Observable<IDrawerItem> observarDrawer(){
+        return Observable.create(consumer ->
+                d.withOnDrawerItemClickListener((view, position, drawerItem) -> {
+                    consumer.onNext(drawerItem);
+                    return false;
+                })
+        );
+    }
+
 
 ---
 
