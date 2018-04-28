@@ -20,12 +20,12 @@
 ---
 
 #### Librerias Utilazadas<span class="gray"></span>.
-####AWS(Amazon web service) <span class="gray"></span>.
-####butherknife  <span class="gold"></span>.
-####Dagger2  <span class="gold"></span>.
-####Rxjava2  <span class="gold"></span>.
-####Rx Android  <span class="gold"></span>.
-####librerias de utilidad  <span class="gold"></span>.
+#### AWS(Amazon web service) <span class="gray"></span>.
+#### butherknife  <span class="gold"></span>.
+#### Dagger2  <span class="gold"></span>.
+#### Rxjava2  <span class="gold"></span>.
+#### Rx Android  <span class="gold"></span>.
+#### librerias de utilidad  <span class="gold"></span>.
 
 <br>
 
