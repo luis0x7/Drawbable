@@ -25,7 +25,7 @@
 #### Dagger2  <span class="gold"></span>
 #### Rxjava2  <span class="gold"></span>
 #### Rx Android  <span class="gold"></span>
-#### librerias de utilidad  <span class="gold"></span>
+#### Librerias de utilidad  <span class="gold"></span>
 
 <br>
 
@@ -74,7 +74,8 @@
 
 @title[Step 3. Done!]
 
-### operadores para crear Observable  <span class="gold"></span>
+###  Operadores para crear Observable  <span class="gold"></span>
+<br>
 #### Create
 #### Defer 
 #### Empty/Never/Throw 
@@ -84,7 +85,7 @@
 #### Repeat
 #### Start 
 #### Timer 
-<br>
+
 <br>
 <br>
 
@@ -95,7 +96,7 @@
 @title[Feature Rich]
 
 ### Tipos de Obserbables
-
+<br>
 #### 1.-Observable
 #### 2.-Flowable
 #### 3.-Single
@@ -107,6 +108,7 @@
 @title[Step 3. Done!]
 
 ### Backpressure  <span class="gold"></span>
+<br>
 #### BackpressureMode.NONE
 #### BackpressureMode.ERROR
 #### BackpressureMode.BUFFER
