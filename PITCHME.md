@@ -19,13 +19,13 @@
 
 ---
 
-#### Librerias Utilazadas<span class="gray"></span>.
-#### AWS(Amazon web service) <span class="gray"></span>.
-#### Butherknife  <span class="gold"></span>.
-#### Dagger2  <span class="gold"></span>.
-#### Rxjava2  <span class="gold"></span>.
-#### Rx Android  <span class="gold"></span>.
-#### librerias de utilidad  <span class="gold"></span>.
+#### Librerias Utilazadas<span class="gray"></span>
+#### AWS(Amazon web service) <span class="gray"></span>
+#### Butherknife  <span class="gold"></span>
+#### Dagger2  <span class="gold"></span>
+#### Rxjava2  <span class="gold"></span>
+#### Rx Android  <span class="gold"></span>
+#### librerias de utilidad  <span class="gold"></span>
 
 <br>
 
@@ -40,6 +40,7 @@
 <br>
 
 
+![Logo](https://cdn-images-1.medium.com/max/800/1*26WzvNZ6aQJFSG5A0MoTnA.png)
 
 
 ---
