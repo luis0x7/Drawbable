@@ -42,13 +42,14 @@ span.aside {
   color: #e49436;
   font-size: 1.55em;
   margin: 0 0 60px 0;
-  font-family: "Montserrat", Impact, sans-serif;
+  /*font-family: "Montserrat", Impact, sans-serif;
   font-weight: normal;
   line-height: 1.2;
   letter-spacing: -0.03em;
   text-transform: none;
   text-shadow: none;
-  word-wrap: break-word;
+  word-wrap: break-word;*/
+  font-family: "Lato", "Arial";
   display: block;
 }
 
