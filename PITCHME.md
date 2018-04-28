@@ -60,6 +60,9 @@
 @title[Step 3. Done!]
 
 ### Observable  <span class="gold"></span>
+<span class="gray">Definicion</span>
+<span class="gray">Unsubcribe</span>
+
 <br>
 <br>
 <br>
@@ -69,7 +72,7 @@
 
 @title[Step 3. Done!]
 
-### Observable  <span class="gold"></span>
+### operadores para crear Observable  <span class="gold"></span>
 #### Create
 #### Defer 
 #### Empty/Never/Throw 
@@ -89,14 +92,14 @@
 
 @title[Feature Rich]
 
-### Tipos de Obserbables <span class="gold">Slide Rich</span>
+### Tipos de Obserbables
 
 #### 1.-Observable
 #### 2.-Flowable
 #### 3.-Single
 #### 4.-Maybe
-#### 5.-Completable
-#### 6.-Subject
+#### 5-Completable
+#### 6-Subject
 
 ---
 
