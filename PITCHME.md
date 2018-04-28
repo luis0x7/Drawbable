@@ -97,12 +97,12 @@
 
 ###  <span class="gold">Tipos de Obserbables</span>
 <br>
-#### 1.-Observable
-#### 2.-Flowable
-#### 3.-Single
-#### 4.-Maybe
-#### 5-Completable
-#### 6-Subject
+#### Observable
+#### Flowable
+#### Single
+#### Maybe
+#### Completable
+#### Subject
 
 ---
 @title[Step 3. Done!]
