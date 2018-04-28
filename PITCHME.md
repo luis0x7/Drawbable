@@ -25,10 +25,12 @@ Note: patron diseño solucion de problemas,patron arquitectura Mvp patron diseñ
 #### Rxjava2  <span class="gold"></span>
 #### Rx Android  <span class="gold"></span>
 #### Librerias de utilidad  <span class="gold"></span>
-Note:
+
+
+
 <br>
 
-
+Note:
 ---
 
 @title[Step 2. Git-Commit]
@@ -41,7 +43,7 @@ Note:
 
 ![Logo](https://cdn-images-1.medium.com/max/800/1*26WzvNZ6aQJFSG5A0MoTnA.png)
 
-
+Note:es programacion con flujo de datos asincronos. stream secuensia de elementos. asincrono eventos independientes. reaction 
 ---
 
 
@@ -103,7 +105,7 @@ Note:
 #### Maybe
 #### Completable
 #### Subject
-
+Note: subjet ejemplo convertir obserbable externo de cold a hot   observable cold espera y hot no 
 ---
 @title[Step 3. Done!]
 
@@ -141,6 +143,6 @@ Observable<IDrawerItem> observarDrawer(){
 @[3](Llamamos el evento custom click del drawer para obtener los datos    )
 @[4](Obtiene el valor que el observable emite)
 
-
+note: Flowvable o obsevable , rxjava1 y rxjava2
 ---
 
