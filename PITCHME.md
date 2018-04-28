@@ -138,8 +138,8 @@ Observable<IDrawerItem> observarDrawer(){
 ```
 @[1](Se le asigna el tipo IDrawerIteam al observable  )
 @[2](Se crea el observable con el subcriptor )
-@[3](llamamos el evento custom click del drawer para obtener los datos    )
-@[4](obtiene el valor que el observable emite)
+@[3](Llamamos el evento custom click del drawer para obtener los datos    )
+@[4](Obtiene el valor que el observable emite)
 
 
 ---
