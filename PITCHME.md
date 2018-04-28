@@ -106,7 +106,11 @@
 @title[Step 3. Done!]
 
 ### Backpressure  <span class="gold"></span>
-
+#### BackpressureMode.NONE
+#### BackpressureMode.ERROR
+#### BackpressureMode.BUFFER
+#### BackpressureMode.DROP
+#### BackpressureMode.LASTES
 <br>
 <br>
 <br>
