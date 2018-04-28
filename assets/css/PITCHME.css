@@ -49,7 +49,7 @@ span.aside {
   text-transform: none;
   text-shadow: none;
   word-wrap: break-word;*/
-  font-family: "Lato", "Arial";
+  font-family: "Lato", "Arial" !important;
   display: block;
 }
 
