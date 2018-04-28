@@ -30,7 +30,7 @@ Note: patron diseño solucion de problemas,patron arquitectura Mvp patron diseñ
 
 <br>
 
-Note:
+Note:dagger:modelo Rxjava presentador butterkinfe view
 ---
 
 @title[Step 2. Git-Commit]
