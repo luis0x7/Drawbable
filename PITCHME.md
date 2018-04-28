@@ -20,10 +20,12 @@
 ---
 
 #### Librerias Utilazadas<span class="gray"></span>.
-#### <span class="gray"></span>.
-<br>
-####  <span class="gold"></span>.
-####  <span class="gold"></span>.
+####AWS(Amazon web service) <span class="gray"></span>.
+####butherknife  <span class="gold"></span>.
+####Dagger2  <span class="gold"></span>.
+####Rxjava2  <span class="gold"></span>.
+####Rx Android  <span class="gold"></span>.
+####librerias de utilidad  <span class="gold"></span>.
 
 <br>
 
@@ -42,11 +44,23 @@
 
 ---
 
+
+@title[Step 2. Git-Commit]
+
+#### Programacion orientada a objetos
+
+![Logo](https://image.slidesharecdn.com/presentacinpoo-120823191110-phpapp01/95/poo-programacin-orientada-a-objetos-14-728.jpg?cb=1345751433)
+<br>
+
+
+
+
+---
+
 @title[Step 3. Done!]
 
 ### Observable  <span class="gold"></span>
 <br>
-
 <br>
 <br>
 
