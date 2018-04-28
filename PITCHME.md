@@ -15,7 +15,7 @@
 #### y Patrón Observador
 <br>
 <span class="aside"></span>
-
+Note: patron diseño solucion de problemas,patron arquitectura Mvp patron diseño singleton :exsistencia unica ejemplo multiples conexciones, Mvp modelo define datos mostrar ,presentador logica ,vista interface grafica. Rx (Reactive extention),dependencia , P ovservador uno a muchos avisa  V≤-P->M
 ---
 
 #### <span class="gold">Librerias Utilazadas</span>
@@ -25,7 +25,7 @@
 #### Rxjava2  <span class="gold"></span>
 #### Rx Android  <span class="gold"></span>
 #### Librerias de utilidad  <span class="gold"></span>
-
+Note:
 <br>
 
 
