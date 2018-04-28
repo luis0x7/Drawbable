@@ -1,7 +1,6 @@
 @title[Introduction]
 
-##  <span class="gold">Presentacion </span>
-
+##  <span class="gold">Presentación Rxjava2 Observables </span>
 
 <br>
 <br>
