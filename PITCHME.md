@@ -133,15 +133,11 @@ Observable<IDrawerItem> observarDrawer(){
     }
     
 ```
-@[1](1)
-@[2](2)
-@[3](3)
-@[4](4)
-@[5](5)
+@[1](Se le asigna el tipo IDraweriteam al observable  )
+@[2](Se crea el obserbable con el subcriptor )
+@[3](llamamos el evento cusntom click del drawer para obtener los datos   )
+@[4](obtiene el valor que el observable emite)
+@[5]()
 
 ---
 
-### Go for it.
-### Just add <span class="gold">PITCHME.md</span> ;)
-<br>
-[Click here to learn more @fa[external-link fa-pad-left]](https://github.com/gitpitch/gitpitch/wiki)
