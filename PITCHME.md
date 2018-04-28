@@ -75,7 +75,7 @@
 @title[Step 3. Done!]
 
 ####  Operadores para crear Observable  <span class="gold"></span>
-<br>
+
 ##### Create
 ##### Defer 
 ##### Empty/Never/Throw 
