@@ -74,17 +74,17 @@
 
 @title[Step 3. Done!]
 
-###  Operadores para crear Observable  <span class="gold"></span>
+####  Operadores para crear Observable  <span class="gold"></span>
 <br>
-#### Create
-#### Defer 
-#### Empty/Never/Throw 
-#### Interval 
-#### Just
-#### Range
-#### Repeat
-#### Start 
-#### Timer 
+##### Create
+##### Defer 
+##### Empty/Never/Throw 
+##### Interval 
+##### Just
+##### Range
+##### Repeat
+##### Start 
+##### Timer 
 
 <br>
 <br>
