@@ -65,6 +65,25 @@
 <br>
 
 
+---
+
+@title[Step 3. Done!]
+
+### Observable  <span class="gold"></span>
+#### Create
+#### Defer 
+#### Empty/Never/Throw 
+#### Interval 
+#### Just
+#### Range
+#### Repeat
+#### Start 
+#### Timer 
+<br>
+<br>
+<br>
+
+
 
 ---
 
