@@ -1,6 +1,5 @@
 .gold {
-  /*color: #e49436;*/
-  color: red;
+  color: #e49436;
 }
 
 .gray {
@@ -50,7 +49,7 @@ span.aside {
   text-transform: none;
   text-shadow: none;
   word-wrap: break-word;*/
-  font-family: "Lato", "Arial" !important;
+  font-family: "Comic Sans MS" !important;
   display: block;
 }
 
