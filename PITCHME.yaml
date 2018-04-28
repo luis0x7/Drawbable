@@ -4,3 +4,5 @@ background : assets/images/wallpaper.jpg
 logo : assets/images/logo.png
 transition : none
 published : true
+footnote : "<a href='#/2'></a>"
+
