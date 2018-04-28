@@ -1,6 +1,6 @@
 @title[Introduction]
 
-## Presentacion  <span class="gold"></span>
+##  <span class="gold">Presentacion </span>
 
 
 <br>
@@ -19,7 +19,7 @@
 
 ---
 
-#### Librerias Utilazadas<span class="gray"></span>
+#### <span class="gold">Librerias Utilazadas</span>
 #### AWS(Amazon web service) <span class="gray"></span>
 #### Butherknife  <span class="gold"></span>
 #### Dagger2  <span class="gold"></span>
@@ -34,7 +34,7 @@
 
 @title[Step 2. Git-Commit]
 
-#### RxJava 
+####   <span class="gold">RxJava</span>
 
 <span class="aside"> Programación reactiva</span>
 <br>
@@ -48,7 +48,7 @@
 
 @title[Step 2. Git-Commit]
 
-#### Programacion orientada a objetos
+####<span class="gold"> Programacion orientada a objetos </span>
 
 ![Logo](https://image.slidesharecdn.com/presentacinpoo-120823191110-phpapp01/95/poo-programacin-orientada-a-objetos-14-728.jpg?cb=1345751433)
 <br>
@@ -60,7 +60,7 @@
 
 @title[Step 3. Done!]
 
-### Observable  <span class="gold"></span>
+###   <span class="gold">Observable</span>
 <span class="gray">Definicion</span>
 <br>
 <span class="gray">Unsubcribe</span>
@@ -74,7 +74,7 @@
 
 @title[Step 3. Done!]
 
-####  Operadores para crear Observable  <span class="gold"></span>
+####    <span class="gold">Operadores para crear Observable</span>
 
 ##### Create
 ##### Defer 
@@ -95,7 +95,7 @@
 
 @title[Feature Rich]
 
-### Tipos de Obserbables
+###  <span class="gold">Tipos de Obserbables</span>
 <br>
 #### 1.-Observable
 #### 2.-Flowable
@@ -107,7 +107,7 @@
 ---
 @title[Step 3. Done!]
 
-### Backpressure  <span class="gold"></span>
+###   <span class="gold">Backpressure</span>
 <br>
 #### BackpressureMode.NONE
 #### BackpressureMode.ERROR
