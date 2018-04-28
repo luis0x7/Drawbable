@@ -21,7 +21,7 @@
 
 #### Librerias Utilazadas<span class="gray"></span>.
 #### AWS(Amazon web service) <span class="gray"></span>.
-#### butherknife  <span class="gold"></span>.
+#### Butherknife  <span class="gold"></span>.
 #### Dagger2  <span class="gold"></span>.
 #### Rxjava2  <span class="gold"></span>.
 #### Rx Android  <span class="gold"></span>.
@@ -135,7 +135,7 @@ Observable<IDrawerItem> observarDrawer(){
 ```
 @[1](Se le asigna el tipo IDrawerIteam al observable  )
 @[2](Se crea el observable con el subcriptor )
-@[3](llamamos el evento custom click del drawer para obtener los datos   )
+@[3](llamamos el evento custom click del drawer para obtener los datos    )
 @[4](obtiene el valor que el observable emite)
 @[5]()
 
