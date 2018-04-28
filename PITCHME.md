@@ -68,10 +68,7 @@ Note:es programacion con flujo de datos asincronos. stream secuensia de elemento
 <br>
 <span class="gray">Unsubcribe</span>
 
-
-<br>
-
-
+Note:observable se subscreve a observador y reaciona a lo que el obsevable emite. .subcripcio(myOnnext).unsubripcion le dice a los observables que no esta interesado lo que pude crear cascada de problemas  
 ---
 
 @title[Step 3. Done!]
