@@ -48,7 +48,7 @@
 
 @title[Step 2. Git-Commit]
 
-####<span class="gold"> Programacion orientada a objetos </span>
+#### <span class="gold"> Programacion orientada a objetos </span>
 
 ![Logo](https://image.slidesharecdn.com/presentacinpoo-120823191110-phpapp01/95/poo-programacin-orientada-a-objetos-14-728.jpg?cb=1345751433)
 <br>
