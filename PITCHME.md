@@ -43,7 +43,7 @@ Note:dagger:modelo Rxjava presentador butterkinfe view
 
 ![Logo](http://reactivex.io/assets/operators/legend.png)
 
-Note:es programacion con flujo de datos asincronos. stream secuensia de elementos. asincrono eventos independientes. reaction 
+Note:es programacion con flujo de datos asincronos. stream secuensia de elementos. asincrono eventos independientes. reaction.............http://www.philosophicalhacker.com/wp-content/uploads/2015/06/rxjava_prezi_define_observer_subscriber-1024x791.jpg
 ---
 
 
