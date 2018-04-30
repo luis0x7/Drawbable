@@ -41,7 +41,7 @@ Note:dagger:modelo Rxjava presentador butterkinfe view
 <br>
 
 
-![Logo](https://cdn-images-1.medium.com/max/800/1*26WzvNZ6aQJFSG5A0MoTnA.png)
+![Logo](http://reactivex.io/assets/operators/legend.png)
 
 Note:es programacion con flujo de datos asincronos. stream secuensia de elementos. asincrono eventos independientes. reaction 
 ---
@@ -51,12 +51,10 @@ Note:es programacion con flujo de datos asincronos. stream secuensia de elemento
 
 #### <span class="gold"> Programacion orientada a objetos </span>
 
-![Logo](https://image.slidesharecdn.com/presentacinpoo-120823191110-phpapp01/95/poo-programacin-orientada-a-objetos-14-728.jpg?cb=1345751433)
+![Logo](http://2.bp.blogspot.com/-0_vBJM9OxiM/VYLBqC8TQ0I/AAAAAAAAAFQ/NqKqRCHAgGE/s640/POO.png)
 <br>
 
-
-
-
+Note:
 ---
 
 @title[Step 3. Done!]
@@ -68,7 +66,7 @@ Note:es programacion con flujo de datos asincronos. stream secuensia de elemento
 <br>
 <span class="gray">Unsubcribe</span>
 
-Note:observable se subscreve a observador y reaciona a lo que el obsevable emite. .subcripcio(myOnnext).unsubripcion le dice a los observables que no esta interesado lo que pude crear cascada de problemas  
+Note:observable se subscrive a observador y reaciona a lo que el obsevable emite. .subcripcio(myOnnext).unsubripcion le dice a los observables que no esta interesado lo que pude crear cascada de problemas  
 ---
 
 @title[Step 3. Done!]
