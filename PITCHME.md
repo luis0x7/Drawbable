@@ -54,7 +54,7 @@ Note:es programacion con flujo de datos asincronos. stream secuensia de elemento
 ![Logo](http://2.bp.blogspot.com/-0_vBJM9OxiM/VYLBqC8TQ0I/AAAAAAAAAFQ/NqKqRCHAgGE/s640/POO.png)
 <br>
 
-Note:
+#### Note:La encapsulación  organizar datos y métodos de una estructura, conciliando el modo en que el objeto se implementa,evitando el acceso a datos por cualquier otro medio distinto a los especificados.polimorfismo a la capacidad que tienen los objetos de una clase de responder al mismo mensaje o evento en función de los parámetros utilizados durante su invocación. Un objeto polimórfico es una entidad que puede contener valores de diferentes tipos durante la ejecución del programa.Diferencias simula objetos del mundo real y reactiva reaciona la los sucesos errores y fallos 
 ---
 
 @title[Step 3. Done!]
