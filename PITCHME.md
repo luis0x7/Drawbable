@@ -102,6 +102,8 @@
 <br>
 
 <span class="aside"></span>
+
+Note:https://materialdesignicons.com/ POOP 💩
 ---
 
 #### <span class="gold">Animaciones con vectores  </span>
@@ -112,7 +114,7 @@
 
 #### Morphing paths
 
-https://www.androiddesignpatterns.com/2016/11/introduction-to-icon-animation-techniques.html#morphing-paths
+
 
 
 <span class="aside"></span>
