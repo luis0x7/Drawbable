@@ -118,4 +118,5 @@ Note:https://materialdesignicons.com/ POOP 💩
 
 
 <span class="aside"></span>
+Note: https://www.androiddesignpatterns.com/2016/11/introduction-to-icon-animation-techniques.html#morphing-paths
 ---
