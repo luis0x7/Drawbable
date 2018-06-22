@@ -54,12 +54,23 @@
 
 <span class="aside"></span>
 ---
-#### animation-list 
+#### Animation-list 
+```
+    <animation-list android:id="@+id/selected" android:oneshot="false">
+    <item android:drawable="@drawable/wheel0" android:duration="50" />
+    <item android:drawable="@drawable/wheel1" android:duration="50" />
+  />
+ </animation-list> 
+    
+```  
+#### Layer-list
 
-#### layer-list
-
-#### state Drawable
-
+#### State Drawable
+```
+  <item android:drawable="@drawable/button_checked"
+        android:state_checked="true" />
+        
+```
 
 
 <span class="aside"></span>
