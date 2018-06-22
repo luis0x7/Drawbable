@@ -61,8 +61,8 @@
     <item android:drawable="@drawable/wheel1" android:duration="50" />
   />
  </animation-list> 
-    
-```  
+```
+
 #### Layer-list
 
 #### State Drawable
@@ -70,8 +70,8 @@
   <item android:drawable="@drawable/button_checked"
         android:state_checked="true" />
         
-```
 
+```
 
 <span class="aside"></span>
 ---
