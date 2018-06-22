@@ -103,3 +103,17 @@
 
 <span class="aside"></span>
 ---
+
+#### <span class="gold">Animaciones con vectores  </span>
+
+#### Rotation animation 
+
+#### Trimming stroked
+
+#### Morphing paths
+
+https://www.androiddesignpatterns.com/2016/11/introduction-to-icon-animation-techniques.html#morphing-paths
+
+
+<span class="aside"></span>
+---
