@@ -11,15 +11,15 @@
 @title[PITCHME.md]
 
 ####   <span class="gold"></span>
-#### Shape Drawable
-#### Vector Drawable
+####   <span class="silver">Shape Drawable</span>
+####  <span class="silver">Vector Drawable</span>
 <br>
 <span class="aside"></span>
 
 ---
 @title[PITCHME.md]
 
-#### Shape Drawable <span class="gold"></span>
+####  <span class="gold">Shape Drawable</span>
 #### Shape
 ```     
         android:shape= “oval”
