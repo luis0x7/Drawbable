@@ -55,10 +55,10 @@
 ---
 #### Animation-list 
 ```
-    <animation-list android:id="@+id/selected" android:oneshot="false">
-    <item android:drawable="@drawable/wheel0" android:duration="50" />
-    <item android:drawable="@drawable/wheel1" android:duration="50" />
-  />
+<animation-list android:id="@+id/selected" android:oneshot="false">
+<item android:drawable="@drawable/wheel0" android:duration="50" />
+<item android:drawable="@drawable/wheel1" android:duration="50" />
+/>
  </animation-list> 
 ```
 
