@@ -76,7 +76,7 @@
 
 #### <span class="gold">Vector Drawable</span>
 
-### pathdata 
+### PathData 
 ##### M o m (X,Y)+ :Mueve el cursor a la pocicion.
 ##### Z o z:Dibuja la line desde el cursor hasta el punto de inicio.
 ##### L o l (X,Y)+ :dibuga una line desde el punto especificado en (X,Y)
@@ -90,9 +90,9 @@
 <span class="aside"></span>
 ---
 
-#### <span class="gold">Pathdata ejemplo  </span>
+#### <span class="gold">PathData ejemplo  </span>
 
-### pathdata 
+### PathData 
 ```
  android:pathData="M100,100 L300,100 L200,300 z"
 ```
