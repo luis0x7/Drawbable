@@ -46,7 +46,7 @@ Note:dagger:modelo Rxjava presentador butterkinfe view
 
 #### <span class="gold"> Programacion orientada a objetos </span>
 
-![Logo](http://2.bp.blogspot.com/-0_vBJM9OxiM/VYLBqC8TQ0I/AAAAAAAAAFQ/NqKqRCHAgGE/s640/POO.png)
+![Logo](https://github.com/alexjlockwood/ShapeShifter/raw/master/art/playpausestop.gif)
 <br>
 
 ---
