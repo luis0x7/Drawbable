@@ -33,12 +33,15 @@
         android:bottomLeftRadius=”10dp”
     
 ```
-#### corner
+#### Gradient or solid color
+
+#### stroke 
 ```
+        android:width=”1dp”
+        android:color=@color/your_color  
     
 ```
-#### corner
-#### corner
+
 <br>
 <span class="aside"></span>
 
