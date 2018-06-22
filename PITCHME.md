@@ -20,22 +20,23 @@
 @title[PITCHME.md]
 
 #### Shape Drawable <span class="gold"></span>
-#### shape
+#### Shape
 ```     
         android:shape= “oval”
         android:shape= “line”
         android:shape= “rectangle”
         android:shape= “ring”
 ```
-#### corner
+#### Corner
 ```
         android:radius=”20dp”
         android:bottomLeftRadius=”10dp”
     
 ```
 #### Gradient or solid color
-
-#### stroke 
+![Logo](https://i.stack.imgur.com/1Eb5w.jpg)
+<br>
+#### Stroke 
 ```
         android:width=”1dp”
         android:color=@color/your_color  
