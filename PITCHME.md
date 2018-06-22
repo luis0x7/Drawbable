@@ -34,8 +34,7 @@
     
 ```
 #### Gradient or solid color
-![Logo](https://i.stack.imgur.com/1Eb5w.jpg)
-<br>
+
 #### Stroke 
 ```
         android:width=”1dp”
@@ -48,26 +47,11 @@
 
 ---
 
-### <span class="gold">Análisis en Android Studio</span>
+### 
 
+![Logo](https://cdn-images-1.medium.com/max/800/1*m34HiIdSPlDPYXnq4cYJsg.png)
 <br>
-
-```
-Observable<IDrawerItem> observarDrawer(){
-        return Observable.create(consumer ->
-                d.withOnDrawerItemClickListener((view, position, drawerItem) -> {
-                    consumer.onNext(drawerItem);
-                    return false;
-                })
-        );
-    }
-    
-```
-@[1](Se le asigna el tipo IDrawerIteam al observable  )
-@[2](Se crea el observable con el subcriptor )
-@[3](Llamamos el evento custom click del drawer para obtener los datos    )
-@[4](Obtiene el valor que el observable emite)
-
-note: Flowvable o obsevable , rxjava1 y rxjava2
+<br>
+<span class="aside"></span>
 ---
 
