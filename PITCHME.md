@@ -21,8 +21,19 @@
 
 #### Shape Drawable <span class="gold"></span>
 #### shape
-#### corner 
+```     android:shape= “oval”
+        android:shape= “line”
+        android:shape= “rectangle”
+        android:shape= “ring”
+```
 #### corner
+```
+    
+```
+#### corner
+```
+    
+```
 #### corner
 #### corner
 <br>
